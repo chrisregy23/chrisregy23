@@ -94,15 +94,23 @@
 ## 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/AZ-400-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-400">
-  <img src="https://img.shields.io/badge/IBM_Business_Automation-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Business Automation">
-  <img src="https://img.shields.io/badge/IBM_Cloud_Pak-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud Pak">
-  <img src="https://img.shields.io/badge/Microsoft_DevOps_Engineer-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft DevOps Engineer">
-  <img src="https://img.shields.io/badge/Microsoft_Azure_Administrator-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Administrator">
-  <img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Fundamentals">
-  <img src="https://img.shields.io/badge/Certified_ScrumMaster-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Certified ScrumMaster">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Actions" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure AZ-400" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Business Automation" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Cloud Pak" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft DevOps Engineer" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Administrator" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Fundamentals" width="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg" alt="Certified ScrumMaster" width="80"/>
 </p>
+
 
 ---
 
