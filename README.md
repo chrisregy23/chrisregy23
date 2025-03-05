@@ -33,70 +33,52 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://www.spec-india.com/wp-content/uploads/2023/11/CI-CD-Pipeline.png" alt="CI/CD Pipeline" width="800" />
-</p>
-
-<p align="left">
-  <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" style="margin:10px"/>
   </a>
+  
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" style="margin:10px"/>
   </a>
 
-  <!-- Containerization & Orchestration -->
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="60" style="margin:10px"/>
   </a>
+
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="60" style="margin:10px"/>
   </a>
 
-  <!-- Infrastructure as Code -->
   <a href="https://developer.hashicorp.com/terraform/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="60" style="margin:10px"/>
   </a>
+
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="60" style="margin:10px"/>
   </a>
 
-  <!-- CI/CD Tools -->
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/GitHub_Actions_logo.svg" alt="GitHub Actions" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/GitHub_Actions_logo.svg" alt="GitHub Actions" width="60" style="margin:10px"/>
   </a>
+
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="60" style="margin:10px"/>
   </a>
+
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="60" style="margin:10px"/>
   </a>
 
-  <!-- Build & Artifact Management -->
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="60" style="margin:10px"/>
   </a>
+
   <a href="https://tomcat.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="Tomcat" width="50"/>
-  </a>
-  <a href="https://www.sonatype.com/products/nexus-repository" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Nexus_Logo.png" alt="Nexus Repository" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="Tomcat" width="60" style="margin:10px"/>
   </a>
 
-  <!-- Monitoring Tools -->
-  <a href="https://www.sonarqube.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SonarQube_logo.svg" alt="SonarQube" width="50"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="50"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_logo.svg" alt="Grafana" width="50"/>
-  </a>
-
-  <!-- Operating System -->
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt="Linux" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt="Linux" width="60" style="margin:10px"/>
   </a>
 </p>
 
