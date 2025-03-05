@@ -30,60 +30,57 @@
 
 ---
 
-  
-<p><strong>🛠️ Languages and Tools</strong></p>
-<p style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
+  ## 🛠️ Languages and Tools
+
+<p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="80"/>
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="80"/>
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://tomcat.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="Tomcat" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apache_Tomcat_logo.svg" alt="Tomcat" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" height="50"/>
   </a>
 </p>
-
-
-
 
 
 ---
