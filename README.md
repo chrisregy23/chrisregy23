@@ -39,24 +39,23 @@
 ## 🛠️ Languages and Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/>
   <img src="https://img.icons8.com/color/48/000000/github-actions.png" alt="GitHub Actions"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
-  <img src="https://img.icons8.com/fluency/48/000000/azure-devops.png" alt="Azure DevOps"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Code Pipeline"/>
-  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"/>
-  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure Monitor"/>
-  <img src="https://img.icons8.com/color/48/000000/new-logo.png" alt="Application Insights"/>
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" />
+  <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI" />
+  <img src="https://img.icons8.com/color/48/000000/travis-ci.png" alt="Travis CI" />
+  <img src="https://img.icons8.com/color/48/000000/new-relic.png" alt="New Relic" />
+  <img src="https://img.icons8.com/color/48/000000/datadog.png" alt="Datadog" />
   <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" alt="Prometheus"/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana"/>
-  <img src="https://img.icons8.com/color/48/000000/appdynamics.png" alt="AppDynamics"/>
-  <img src="https://img.icons8.com/color/48/000000/servicenow.png" alt="ServiceNow"/>
+  <img src="https://img.icons8.com/color/48/000000/sonarqube.png" alt="SonarQube"/>
+  <img src="https://img.icons8.com/color/48/000000/snyk.png" alt="Snyk"/>
 </p>
-
 
 
 ## ⚡ Fun fact: ...
