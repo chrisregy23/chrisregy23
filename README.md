@@ -94,22 +94,39 @@
 ## 📜 Certifications
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Actions" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure AZ-400" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Business Automation" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Cloud Pak" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft DevOps Engineer" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Administrator" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Fundamentals" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg" alt="Certified ScrumMaster" width="80"/>
-</p>
+  <a href="https://github.com/features/actions">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Actions" width="50"/> 
+    <br> GitHub Actions
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://learn.microsoft.com/en-us/certifications/exams/az-400/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure AZ-400" width="50"/> 
+    <br> Azure AZ-400
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.ibm.com/training/cloud">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Business Automation" width="50"/> 
+    <br> IBM Business Automation
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.ibm.com/training/cloud">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Cloud Pak" width="50"/> 
+    <br> IBM Cloud Pak
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft DevOps Engineer" width="50"/> 
+    <br> Microsoft DevOps Engineer
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/">
+    <img src="https://upload.wikimedia.org
+
 
 
 ---
