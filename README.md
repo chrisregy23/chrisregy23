@@ -32,8 +32,6 @@
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
 <p align="left">
   <!-- CI/CD Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
