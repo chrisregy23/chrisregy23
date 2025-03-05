@@ -96,7 +96,7 @@
 | Logo | Certification |
 |------|--------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"> | **GitHub Actions** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Azure AZ-400** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Azure DevOps Engineer** |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50"> | **IBM Business Automation** |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50"> | **IBM Cloud Pak** |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft DevOps Engineer** |
