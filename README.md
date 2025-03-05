@@ -93,41 +93,16 @@
 
 ## 📜 Certifications
 
-<p align="left">
-  <a href="https://github.com/features/actions">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Actions" width="50"/> 
-    <br> GitHub Actions
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://learn.microsoft.com/en-us/certifications/exams/az-400/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure AZ-400" width="50"/> 
-    <br> Azure AZ-400
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.ibm.com/training/cloud">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Business Automation" width="50"/> 
-    <br> IBM Business Automation
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.ibm.com/training/cloud">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Cloud Pak" width="50"/> 
-    <br> IBM Cloud Pak
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft DevOps Engineer" width="50"/> 
-    <br> Microsoft DevOps Engineer
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/">
-    <img src="https://upload.wikimedia.org
-
-
+| Logo | Certification |
+|------|--------------|
+| ![GitHub Actions](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg =50x50) **GitHub** | **GitHub Actions** |
+| ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg =50x50) **Microsoft Azure** | **Azure AZ-400** |
+| ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =50x50) **IBM** | **IBM Business Automation** |
+| ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =50x50) **IBM** | **IBM Cloud Pak** |
+| ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg =50x50) **Microsoft Azure** | **Microsoft DevOps Engineer** |
+| ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg =50x50) **Microsoft Azure** | **Microsoft Azure Administrator** |
+| ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg =50x50) **Microsoft Azure** | **Microsoft Azure Fundamentals** |
+| ![Scrum Alliance](https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg =50x50) **Scrum Alliance** | **Certified ScrumMaster** |
 
 ---
 
