@@ -30,9 +30,10 @@
 
 ---
 
+  
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" style="margin:10px"/>
   </a>
@@ -50,7 +51,7 @@
   </a>
 
   <a href="https://developer.hashicorp.com/terraform/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="60" style="margin:10px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="60" style="margin:10px; vertical-align:middle"/>
   </a>
 
   <a href="https://www.ansible.com/" target="_blank">
@@ -81,7 +82,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt="Linux" width="60" style="margin:10px"/>
   </a>
 </p>
-
 
 
 ---
