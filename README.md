@@ -29,7 +29,6 @@
 </a>
 
 ---
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -45,24 +44,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
 
-  <!-- CI/CD Tools -->
+  <!-- CI/CD & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Tomcat" width="40" height="40" />
 
-  <!-- Repositories & Artifact Management -->
-  <img src="https://www.vectorlogo.zone/logos/sonatype_nexus/sonatype_nexus-icon.svg" alt="Nexus Repository" width="40" height="40" />
+  <!-- Build & Repository Management -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Apache_Tomcat_logo.svg" alt="Apache Tomcat" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Nexus-logo.png" alt="Nexus Repository" width="40" height="40" />
+
+  <!-- Monitoring & Logging -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40" />
-
-  <!-- Monitoring Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" />
 
   <!-- Operating Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
+
+
+
 
 
 ---
