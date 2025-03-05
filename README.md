@@ -20,13 +20,18 @@
 - Best practices in **DevOps**, particularly with **Docker** and **Kubernetes**.
 - My experiences in **cloud infrastructure management** and **automation**.
 
-## 📫 How to reach me: ...
-<a href="https://www.linkedin.com/in/chris-regy/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:chrisregy97@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+## 📬 How to reach me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chris-regy/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chrisregy97@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
