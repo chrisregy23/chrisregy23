@@ -32,41 +32,41 @@
 
   
 <p><strong>🛠️ Languages and Tools</strong></p>
-<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+<p style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80"/>
   </a>
 
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-1.svg" alt="Azure" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="80"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="80"/>
   </a>
 
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="80"/>
   </a>
 
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="80"/>
   </a>
 
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="80"/>
   </a>
 
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="60"/>
+    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="80"/>
   </a>
 
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="80"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="80"/>
   </a>
 
   <a href="https://maven.apache.org/" target="_blank">
@@ -74,13 +74,16 @@
   </a>
 
   <a href="https://tomcat.apache.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-tomcat.svg" alt="Tomcat" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="Tomcat" width="80"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="Linux" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="80"/>
   </a>
 </p>
+
+
+
 
 
 ---
