@@ -38,25 +38,25 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-dot-net.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/>
+  <img src="https://img.icons8.com/color/48/000000/github-actions.png" alt="GitHub Actions"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-devops.png" alt="Azure DevOps"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Code Pipeline"/>
+  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"/>
+  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure Monitor"/>
+  <img src="https://img.icons8.com/color/48/000000/new-logo.png" alt="Application Insights"/>
+  <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" alt="Prometheus"/>
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana"/>
+  <img src="https://img.icons8.com/color/48/000000/appdynamics.png" alt="AppDynamics"/>
+  <img src="https://img.icons8.com/color/48/000000/servicenow.png" alt="ServiceNow"/>
 </p>
+
 
 
 ## ⚡ Fun fact: ...
