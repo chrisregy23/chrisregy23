@@ -1,7 +1,5 @@
 # Hi, I'm Chris 👋
 
-![CI/CD Pipeline](https://media.giphy.com/media/NEW_GIF_ID/giphy.gif)
-
 ## 🔭 I’m currently working on ...
 - Developing and managing cloud infrastructure solutions using **Microsoft Azure** and **Docker**.
 - Enhancing automation and **DevOps practices** to streamline software deployment and operations.
@@ -35,23 +33,10 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
-  <img src="https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CodePipeline">
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor">
-  <img src="https://img.shields.io/badge/Application_Insights-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Application Insights">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/AppDynamics-4D4D4D?style=for-the-badge&logo=appdynamics&logoColor=white" alt="AppDynamics">
-  <img src="https://img.shields.io/badge/ServiceNow-003366?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="PDF">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
 </p>
 
 ---
