@@ -93,16 +93,15 @@
 
 ## 📜 Certifications
 
-| Logo | Certification |
-|------|--------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"> | **GitHub Actions** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Azure DevOps Engineer** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50"> | **IBM Business Automation** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50"> | **IBM Cloud Pak** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft DevOps Engineer** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft Azure Administrator** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft Azure Fundamentals** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg" width="50"> | **Certified ScrumMaster** |
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) **GitHub Actions**  
+![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Azure DevOps Engineer**  
+![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) **IBM Business Automation**  
+![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) **IBM Cloud Pak**  
+![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Microsoft DevOps Engineer**  
+![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Microsoft Azure Administrator**  
+![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Microsoft Azure Fundamentals**  
+![Scrum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Scrum.org_logo.svg/1024px-Scrum.org_logo.svg.png) **Certified ScrumMaster**
+
 
 
 
