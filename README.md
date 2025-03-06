@@ -93,14 +93,30 @@
 
 ## 📜 Certifications
 
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) **GitHub Actions**  
-![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Azure DevOps Engineer**  
-![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) **IBM Business Automation**  
-![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) **IBM Cloud Pak**  
-![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Microsoft DevOps Engineer**  
-![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Microsoft Azure Administrator**  
-![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo.png) **Microsoft Azure Fundamentals**  
-![Scrum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Scrum.org_logo.svg/1024px-Scrum.org_logo.svg.png) **Certified ScrumMaster**
+- **Certification:** GitHub Actions  
+  ![GitHub](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg =50x50)
+
+- **Certification:** Azure DevOps Engineer  
+  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
+
+- **Certification:** IBM Business Automation  
+  ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =50x50)
+
+- **Certification:** IBM Cloud Pak  
+  ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =50x50)
+
+- **Certification:** Microsoft DevOps Engineer  
+  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
+
+- **Certification:** Microsoft Azure Administrator  
+  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
+
+- **Certification:** Microsoft Azure Fundamentals  
+  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
+
+- **Certification:** Certified ScrumMaster  
+  ![Scrum Alliance](https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg =50x50)
+
 
 
 
