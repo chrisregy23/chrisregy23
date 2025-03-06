@@ -93,29 +93,16 @@
 
 ## 📜 Certifications
 
-- **Certification:** GitHub Actions  
-  ![GitHub](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg =50x50)
-
-- **Certification:** Azure DevOps Engineer  
-  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
-
-- **Certification:** IBM Business Automation  
-  ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =50x50)
-
-- **Certification:** IBM Cloud Pak  
-  ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =50x50)
-
-- **Certification:** Microsoft DevOps Engineer  
-  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
-
-- **Certification:** Microsoft Azure Administrator  
-  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
-
-- **Certification:** Microsoft Azure Fundamentals  
-  ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg =50x50)
-
-- **Certification:** Certified ScrumMaster  
-  ![Scrum Alliance](https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg =50x50)
+| Logo | Certification |
+|------|--------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"> | **GitHub Actions** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Azure AZ-400** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50"> | **IBM Business Automation** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50"> | **IBM Cloud Pak** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft DevOps Engineer** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft Azure Administrator** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="50"> | **Microsoft Azure Fundamentals** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/ScrumAlliance.svg" width="50"> | **Certified ScrumMaster** |
 
 
 
